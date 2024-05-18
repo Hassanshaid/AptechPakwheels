@@ -1,0 +1,4 @@
+.row{
+    border: 1px solid red;
+    grid-template-columns: 150p;
+}

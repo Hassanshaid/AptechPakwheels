@@ -1,0 +1,5 @@
+.row{
+    border: 1px solid red;
+    grid-template-columns: 150px ,200px ,300px ,300px ,300px ;
+    row
+}

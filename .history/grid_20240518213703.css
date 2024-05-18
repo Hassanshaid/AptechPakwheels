@@ -1,0 +1,16 @@
+.row{
+    display: grid;
+    border: 1px solid red;
+    grid-template-columns: 150px 200px 300px 300px 250px ;
+    grid-template-rows: 100px 200px 300px 400px 100px ;
+    grid-gap: 10px;
+}
+.row .col {
+    border: 1px solid black;
+}
+.c1{
+    grid-column: 1/6;
+}
+.c2{
+    
+}

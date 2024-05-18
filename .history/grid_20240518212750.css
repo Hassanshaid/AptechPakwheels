@@ -1,0 +1,6 @@
+.row{
+    disp
+    border: 1px solid red;
+    grid-template-columns: 150px ,200px ,300px ,300px ,300px ;
+    grid-template-rows: 100px ,200px ,300px ,400px ,100px ;
+}
